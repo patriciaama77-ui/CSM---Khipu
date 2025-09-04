@@ -1,0 +1,8 @@
+{
+  "payment_id": "5ejbdiwqcrmv",
+  "payment_url": "https://khipu.com/payment/info/5ejbdiwqcrmv",
+  "app_url": "khipu:///pos/5ejbdiwqcrmv",
+  "ready_for_terminal": false,
+  "transfer_url": "https://khipu.com/payment/manual/5ejbdiwqcrmv",
+  "simplified_transfer_url": "https://app.khipu.com/payment/simplified/5ejbdiwqcrmv"
+}
